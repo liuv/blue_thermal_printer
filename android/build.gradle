@@ -1,4 +1,4 @@
-group 'id.kakzaki.blue_thermal_printer'
+group 'linden.fixed.blue_thermal_printer'
 
 
 buildscript {
