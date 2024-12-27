@@ -1,3 +1,6 @@
+## 1.2.4
+* 添加 Android namespace 配置以支持新版本 Android Gradle Plugin
+
 ## 1.2.3
 * demonstrate using enum for readability
 * drawer pin by erica
